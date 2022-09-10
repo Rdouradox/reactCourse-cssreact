@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: red;
+}
+
+.red-title {
+  background: black;
+  color: red;
+  padding: 15px;
+  border: 5px solid red;
+}
+
+.title {
+  background: black;
+  color: white;
+}
